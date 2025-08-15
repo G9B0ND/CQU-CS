@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "FFFFFF",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "33539E",
+      "value": "#33539E"
+    },
+    {
+      "name": "7FACD6",
+      "value": "#7FACD6"
+    },
+    {
+      "name": "BFB8DA",
+      "value": "#BFB8DA"
+    },
+    {
+      "name": "E8B7D4",
+      "value": "#E8B7D4"
+    },
+    {
+      "name": "A5678E",
+      "value": "#A5678E"
+    },
+    {
+      "name": "default_my_day_bg",
+      "value": "#8B9DC1"
+    },
+    {
+      "name": "default_important_bg",
+      "value": "#FFB4A2"
+    },
+    {
+      "name": "default_urgent_bg",
+      "value": "#EDBEBB"
+    },
+    {
+      "name": "default_in_plan_bg",
+      "value": "#E0A5B6"
+    },
+    {
+      "name": "default_all_bg",
+      "value": "#E9989D"
+    },
+    {
+      "name": "default_normal_bg",
+      "value": "#9CAFD8"
+    },
+    {
+      "name": "font_black",
+      "value": "#292827"
+    },
+    {
+      "name": "font_grey",
+      "value": "#605E5C"
+    },
+    {
+      "name": "main_background",
+      "value": "#FAF9F8"
+    },
+    {
+      "name": "pure_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "blue",
+      "value": "#2564CF"
+    },
+    {
+      "name": "red",
+      "value": "#A80000"
+    }
+  ]
+}

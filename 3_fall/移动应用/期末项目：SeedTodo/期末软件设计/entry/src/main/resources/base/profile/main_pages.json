@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Login",
+    "pages/MyDay",
+    "pages/FoldersList",
+    "pages/SearchSchedule",
+    "pages/EditSchedule",
+    "pages/ChatPage"
+  ]
+}

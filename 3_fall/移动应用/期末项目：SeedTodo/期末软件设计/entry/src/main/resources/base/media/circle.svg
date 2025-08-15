@@ -1,0 +1,14 @@
+<svg aria-hidden="true"
+     fill="currentColor"
+     height="16"
+     width="16"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <g>
+        <title>Layer 1</title>
+        <path
+            d="m8,1a7,7 0 1 0 0,14a7,7 0 0 0 0,-14zm-8,7a8,8 0 1 1 16,0a8,8 0 0 1 -16,0z"
+            fill="currentColor"
+            id="svg_1"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg aria-hidden="true"
+     fill="currentColor"
+     focusable="false"
+     height="20"
+     width="20"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <g>
+        <title>Layer 1</title>
+        <path
+            d="m10,2a8,8 0 1 1 0,16a8,8 0 0 1 0,-16zm3.36,5.65a0.5,0.5 0 0 0 -0.64,-0.06l-0.07,0.06l-3.65,3.65l-1.65,-1.65l-0.07,-0.06a0.5,0.5 0 0 0 -0.7,0.7l0.07,0.07l2,2l0.07,0.06c0.17,0.11 0.4,0.11 0.56,0l0.07,-0.06l4,-4l0.07,-0.08a0.5,0.5 0 0 0 -0.06,-0.63z"
+            fill="currentColor"
+            id="svg_1"/>
+    </g>
+</svg>

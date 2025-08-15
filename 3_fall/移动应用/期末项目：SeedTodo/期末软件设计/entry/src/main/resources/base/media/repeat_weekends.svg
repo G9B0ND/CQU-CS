@@ -1,0 +1,16 @@
+<svg aria-hidden="true"
+     class="fluentIcon ___12fm75w f1w7gpdv fez10in fg4l7m0"
+     fill="currentColor"
+     focusable="false"
+     height="20"
+     width="20"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <g>
+        <title>Layer 1</title>
+        <path
+            d="m16,4.5a2.5,2.5 0 0 0 -2.5,-2.5l-9,0a2.5,2.5 0 0 0 -2.5,2.5l0,9a2.5,2.5 0 0 0 2.5,2.5l9,0a2.5,2.5 0 0 0 2.5,-2.5l0,-9zm-13,1.5l12,0l0,7.5c0,0.83 -0.67,1.5 -1.5,1.5l-9,0a1.5,1.5 0 0 1 -1.5,-1.5l0,-7.5zm1.5,-3l9,0c0.83,0 1.5,0.67 1.5,1.5l0,0.5l-12,0l0,-0.5c0,-0.83 0.67,-1.5 1.5,-1.5zm0.5,14c0.46,0.6 1.18,1 2,1l6.5,0a4.5,4.5 0 0 0 4.5,-4.5l0,-7c0,-0.82 -0.4,-1.54 -1,-2l0,9a3.5,3.5 0 0 1 -3.5,3.5l-8.5,0z"
+            fill="currentColor"
+            id="svg_1"/>
+    </g>
+</svg>

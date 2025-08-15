@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "作者：刘安 20220508"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "作者：刘安 20220508"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SeedTodo"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    }
+  ]
+}
